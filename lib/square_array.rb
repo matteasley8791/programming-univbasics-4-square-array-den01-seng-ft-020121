@@ -3,6 +3,7 @@ def square_array(array)
   numbers = [1,2,3]
   new_array = []
   while array
+  counter +=
   end
   new_array
 end
